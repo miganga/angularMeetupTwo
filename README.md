@@ -11,3 +11,11 @@ There are two solutions: One with scope watch and the other with binding. You ca
 perfectscrollbar.js file and commenting the first one.
 
 Features used: scope.$watch, angular.bind, link function, etc.
+
+Link for the live demo: <http://miganga.github.io/angularMeetupTwo>
+
+If you have any questions, don't hesitate. I will also try to demo this next meetup if time allows.
+
+See you soon!
+
+Ziya
